@@ -3,6 +3,7 @@
 	"slug" : "spotify-landing-page",
 	"status": "published",
 	"duration" : 6,
+	"difficulty": "intermediate",
 	"preview": "https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true",
 	"description" : "Replicate a professional real-life landing page using bootstrap",
 	"talents": [
