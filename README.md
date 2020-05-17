@@ -4,9 +4,9 @@ As a junior developer you are going to be asked to do lots of HTML/CSS landing p
 
 ## 📝 Instructions
 
-Replicate [this exact landing page](https://projects.breatheco.de/json?slug=spotify-landing-page&preview) using bootstrap framework, please use the assets found on [the following link](https://projects.breatheco.de/p/css/junior/spotify-landing-page/assets.zip).
+Replicate [this exact landing page](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true) using bootstrap framework, please use the assets found on [the following link](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/assets.zip?raw=true).
 
-![Spotify Landing Page](https://projects.breatheco.de/json?slug=spotify-landing-page&preview)
+![Spotify Landing Page](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true)
 
 ## Goals
 
