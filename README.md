@@ -13,8 +13,7 @@ b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
 ```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.![image](https://user-images.githubusercontent.com/63673743/112529582-32a7f680-8d84-11eb-9489-3068408f2178.png)
-
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## 📝 Instructions
 
