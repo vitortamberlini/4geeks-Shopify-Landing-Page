@@ -1,7 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Spotify Landing Page
 
 As a junior developer you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
-https://github.com/breatheco-de/exercise-spotify-landing-page.git
 
 ## 🌱  How to start this project
 
