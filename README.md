@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Spotify Landing Page
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Shopify Landing Page
 
 As a junior developer you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
 
